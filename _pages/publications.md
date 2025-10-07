@@ -1,12 +1,18 @@
 ---
 layout: single
-title: "Contact"
-permalink: /contact/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
-📧 **Email:** [your_email@example.com](mailto:your_email@example.com)  
-💻 **GitHub:** [github.com/shafayet-nur](https://github.com/shafayet-nur)  
-🔗 **LinkedIn:** [linkedin.com/in/shafayet-nur](https://linkedin.com/in/shafayet-nur)
+### 📝 Selected Works
 
-You can also reach me for collaboration or discussions on computational biology and metagenomic analysis.
+- **2025** – *Title of your current paper or preprint.*  
+  _Journal / Conference._
+
+- **2024** – *Paper or poster presentation.*  
+  _Conference / Symposium._
+
+---
+
+You can view my full publication list on [Google Scholar](https://scholar.google.com/) or [ResearchGate](https://www.researchgate.net/).
