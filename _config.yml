@@ -17,19 +17,24 @@ plugins:
 # Author info
 author:
   name: "Shafayet Nur"
-  avatar: "Photo.jpg"
-  bio: "Bioinformatics Researcher • Teaching Assistant"
-  location: "USA"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Ph.D. Student • Graduate Teaching Assistant  
+  Northern Illinois University, USA"
+  location: "DeKalb, Illinois, USA"
   links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/shafayet-nur"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/shafayet-nur"
+      url: "https://www.linkedin.com/in/shafayet-nur-156941201/"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Wup-DigAAAAJ&hl=en&oi=ao"
+    - label: "ResearchGate"
+      icon: "fas fa-flask"
+      url: "https://www.researchgate.net/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:your_email@example.com"
+      url: "mailto:shafayetnur.abir@gmail.com"
+
 
 # Navigation
 main:
