@@ -1,28 +1,8 @@
 title: "Shafayet Nur"
-name: "Shafayet Nur"
 description: "Researcher • Teaching Assistant • Bioinformatics Enthusiast"
 url: "https://shafayet-nur.github.io"
-baseurl: ""
-repository: "shafayet-nur/shafayet-nur.github.io"
-
-remote_theme: "mmistakes/minimal-mistakes@4.19.3"
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: jekyll-theme-minimal
 
 author:
   name: "Shafayet Nur"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Bioinformatics researcher passionate about metagenomics and teaching."
-  location: "United States"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:your_email@example.com"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/shafayet-nur"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/shafayet-nur"
+  email: your_email@example.com
