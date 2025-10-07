@@ -13,4 +13,12 @@ I’m passionate about:
 - Data-driven microbial ecology  
 - Teaching and mentoring in the biological sciences  
 
-👉 Learn more about me through the links above.
+---
+
+## 📁 Navigate
+
+- [About Me](about/)
+- [Research](research/)
+- [Publications](publications/)
+- [Teaching](teaching/)
+- [Contact](contact/)
