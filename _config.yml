@@ -56,11 +56,17 @@ footer:
   - label: "© 2025 Shafayet Nur"
     url: "https://shafayet-nur.github.io"
 
+# Include custom CSS
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css:
+        - "/assets/css/custom.css"
+
 sass:
   style: compressed
-
-include:
-  - assets/css/custom.css
 
 # Markdown settings
 markdown: kramdown
