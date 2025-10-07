@@ -3,6 +3,7 @@ layout: single
 title: "Home"
 author_profile: true
 ---
+Under Construction
 
 I’m **Shafayet Nur**, a *Ph.D. student* and *Graduate Teaching Assistant* in the Department of Computer Science at **Northern Illinois University**, located in **DeKalb, Illinois, USA**.
 
@@ -26,12 +27,6 @@ My broader research interests include **multimodal NLP**, **machine learning**, 
 - NLP · Transformers · Hugging Face  
 - Data Science · Python · R  
 - Linux · Bash · HPC environments  
-
----
-
-#### 🎓 Academic Background
-- **Ph.D. Student (Computer Science)** — Northern Illinois University, USA  
-- **Lecturer (Computer Science & Engineering)** — Port City International University, Bangladesh  
 
 ---
 
