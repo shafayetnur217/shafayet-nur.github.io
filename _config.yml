@@ -1,10 +1,23 @@
 title: "Shafayet Nur"
-description: "Researcher • Teaching Assistant • Bioinformatics Enthusiast"
-url: "https://shafayetnur217.github.io"
-baseurl: "/shafayet-nur.github.io"
-
+description: "Bioinformatics Researcher • Teaching Assistant"
+url: "https://shafayet-nur.github.io"
 theme: jekyll-theme-minimal
 
 author:
   name: "Shafayet Nur"
   email: your_email@example.com
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Contact"
+    url: "/contact/"
