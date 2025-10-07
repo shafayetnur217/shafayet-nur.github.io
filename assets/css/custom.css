@@ -1,42 +1,115 @@
-/* === Compact Minimal Mistakes Style (smaller, academic typography) === */
+/* ======== Modern Academic Layout — Shafayet Nur ======== */
 
-:root {
-  --global-font-size: 14px !important;   /* default is ~17px */
-  --global-line-height: 1.45 !important;
-  --global-font-family: "Lato", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --heading-font-family: "Lato", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-}
-
+/* General page layout */
 body {
-  font-size: var(--global-font-size);
-  line-height: var(--global-line-height);
-  font-family: var(--global-font-family);
-  color: #222;
+  font-size: 15px;
+  line-height: 1.55;
+  font-family: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
+  background-color: #fff;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--heading-font-family);
-  font-weight: 600;
-  line-height: 1.25;
-  margin-top: 1.2em;
-  margin-bottom: 0.6em;
+/* Navbar styling */
+.masthead {
+  border-bottom: 1px solid #ccc;
+  box-shadow: none;
 }
 
-p {
-  font-size: 0.95em;
-  margin-bottom: 0.7em;
+.masthead__menu-item a {
+  font-weight: 500;
+  color: #4b0082;
 }
 
+.masthead__menu-item a:hover {
+  color: #1d64b4;
+}
+
+/* Sidebar (photo + bio) */
 .sidebar {
-  font-size: 13px;
+  font-size: 14px;
+  line-height: 1.4;
 }
 
+.author__avatar img {
+  border-radius: 50%;
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+  border: 3px solid #eaeaea;
+}
+
+.author__name {
+  font-weight: 700;
+  font-size: 1.15em;
+  color: #333;
+}
+
+.author__bio {
+  margin-top: 0.4em;
+  color: #555;
+  font-weight: 400;
+}
+
+/* Body content */
 .page__content {
   max-width: 850px;
   margin: 0 auto;
 }
 
-/* Navigation links smaller and cleaner */
-.site-nav a {
-  font-size: 15px !important;
+.page__title {
+  font-weight: 700;
+  font-size: 1.6em;
+  margin-bottom: 0.5em;
+  color: #333;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  color: #2c2c2c;
+}
+
+p {
+  margin-bottom: 0.8em;
+}
+
+/* Links */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Contact/social icons */
+.author__urls {
+  margin-top: 0.8em;
+}
+
+.author__urls li {
+  margin-bottom: 0.3em;
+  font-size: 14px;
+}
+
+/* Footer */
+.page__footer {
+  font-size: 13px;
+  color: #777;
+  border-top: 1px solid #eee;
+  margin-top: 2em;
+  padding-top: 1em;
+}
+
+/* Make layout tighter on laptop screens */
+@media (min-width: 900px) {
+  .page__inner-wrap {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: 30px;
+  }
+
+  .sidebar {
+    margin-top: 2em;
+  }
 }
