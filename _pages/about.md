@@ -1,10 +1,13 @@
 ---
+layout: single
 title: "About Me"
 permalink: /about/
+author_profile: true
 ---
 
-Hi! I'm **Shafayet Nur**, a bioinformatics researcher and teaching assistant passionate about computational biology, metagenomics, and data-driven biological discovery.
+Hi! I'm **Shafayet Nur**, currently working in bioinformatics and metagenomics.  
+I’m passionate about understanding how microbial communities interact with their environments through computational tools and genomic data.
 
-My research focuses on analyzing microbial communities and nitrogen cycling pathways using metagenomic datasets. I enjoy working with large-scale genomic data, building computational pipelines, and uncovering biological insights from complex ecosystems.
+My work involves analyzing metagenomic bins, annotating genes, and studying nitrogen cycling pathways.
 
-Outside research, I take pride in mentoring students, assisting in lab-based teaching, and sharing scientific curiosity.
+Outside the lab, I enjoy teaching, mentoring students, and contributing to open-source bioinformatics resources.
