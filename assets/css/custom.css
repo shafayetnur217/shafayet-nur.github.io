@@ -1,26 +1,42 @@
-/* ===== Custom Font Styling for Minimal Mistakes ===== */
+/* === Compact Minimal Mistakes Style (smaller, academic typography) === */
+
+:root {
+  --global-font-size: 14px !important;   /* default is ~17px */
+  --global-line-height: 1.45 !important;
+  --global-font-family: "Lato", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --heading-font-family: "Lato", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
 
 body {
-  font-size: 15px;         /* default is ~17px; smaller text */
-  line-height: 1.5;        /* slightly tighter spacing */
+  font-size: var(--global-font-size);
+  line-height: var(--global-line-height);
+  font-family: var(--global-font-family);
+  color: #222;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font-family);
   font-weight: 600;
-  line-height: 1.2;
+  line-height: 1.25;
   margin-top: 1.2em;
-  margin-bottom: 0.4em;
+  margin-bottom: 0.6em;
 }
 
 p {
-  margin-bottom: 0.8em;
+  font-size: 0.95em;
+  margin-bottom: 0.7em;
 }
 
 .sidebar {
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .page__content {
-  max-width: 800px;        /* makes the reading width compact */
+  max-width: 850px;
   margin: 0 auto;
+}
+
+/* Navigation links smaller and cleaner */
+.site-nav a {
+  font-size: 15px !important;
 }
