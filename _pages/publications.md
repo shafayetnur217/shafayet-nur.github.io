@@ -1,16 +1,18 @@
 ---
+layout: single
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
-### Selected Works
+### 📝 Selected Works
 
-- **2025** – *Title of your recent paper or manuscript.*  
-  _Journal / Conference Name._
+- **2025** – *Title of your current paper or preprint.*  
+  _Journal / Conference._
 
-- **2024** – *Your previous paper or poster presentation.*  
+- **2024** – *Paper or poster presentation.*  
   _Conference / Symposium._
 
 ---
 
-If you’d like, you can also link your [Google Scholar](https://scholar.google.com/) or [ResearchGate](https://www.researchgate.net/) profile here.
+You can view my full publication list on [Google Scholar](https://scholar.google.com/) or [ResearchGate](https://www.researchgate.net/).
