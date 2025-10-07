@@ -1,12 +1,16 @@
 ---
-layout: home
-title: "Welcome"
-author_profile: true
+title: "Home"
+layout: default
 ---
 
-# Hi, I'm Shafayet Nur 👋  
-I’m a bioinformatics researcher and teaching assistant passionate about metagenomics and computational biology.
+# 👋 Welcome!
 
-- 🔬 Researching microbial communities and nitrogen cycling  
-- 💻 Skilled in Python, R, Bash, and high-performance computing  
-- 🎓 Dedicated to teaching and mentoring students
+Hi, I’m **Shafayet Nur**, a bioinformatics researcher and teaching assistant.  
+I study microbial communities and nitrogen cycling through metagenomic analysis.
+
+I’m passionate about:
+- Computational biology and genome analysis  
+- Data-driven microbial ecology  
+- Teaching and mentoring in the biological sciences  
+
+👉 Learn more about me through the links above.
