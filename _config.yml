@@ -1,6 +1,6 @@
 title: "Shafayet Nur"
 name: "Shafayet Nur"
-description: "Bioinformatics Researcher • Teaching Assistant"
+description: "PhD Student • GTA"
 url: "https://shafayet-nur.github.io"
 baseurl: ""
 repository: "shafayet-nur/shafayet-nur.github.io"
@@ -17,7 +17,7 @@ plugins:
 # Author info
 author:
   name: "Shafayet Nur"
-  avatar: "/assets/images/profile.jpg"
+  avatar: "Photo.jpg"
   bio: "Ph.D. Student • Graduate Teaching Assistant  
   Northern Illinois University, USA"
   location: "DeKalb, Illinois, USA"
