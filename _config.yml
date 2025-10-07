@@ -5,7 +5,7 @@ url: "https://shafayet-nur.github.io"
 baseurl: ""
 repository: "shafayet-nur/shafayet-nur.github.io"
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-feed
