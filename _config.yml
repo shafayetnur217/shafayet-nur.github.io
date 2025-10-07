@@ -1,23 +1,57 @@
 title: "Shafayet Nur"
+name: "Shafayet Nur"
 description: "Bioinformatics Researcher • Teaching Assistant"
 url: "https://shafayet-nur.github.io"
-theme: jekyll-theme-minimal
+baseurl: ""
+repository: "shafayet-nur/shafayet-nur.github.io"
 
+# Theme and plugins
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Author info
 author:
   name: "Shafayet Nur"
-  email: your_email@example.com
+  avatar: "/assets/images/profile.jpg"
+  bio: "Bioinformatics Researcher • Teaching Assistant"
+  location: "USA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/shafayet-nur"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/shafayet-nur"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your_email@example.com"
 
-# Navigation links
-nav:
+# Navigation
+main:
   - title: "Home"
-    url: "/"
+    url: /
   - title: "About"
-    url: "/about/"
+    url: /about/
   - title: "Research"
-    url: "/research/"
+    url: /research/
   - title: "Publications"
-    url: "/publications/"
+    url: /publications/
   - title: "Teaching"
-    url: "/teaching/"
+    url: /teaching/
   - title: "Contact"
-    url: "/contact/"
+    url: /contact/
+
+# Footer links
+footer:
+  - label: "© 2025 Shafayet Nur"
+    url: "https://shafayet-nur.github.io"
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+paginate: 5
