@@ -1,13 +1,16 @@
 ---
+layout: single
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
-I’ve served as a **Teaching Assistant** for several undergraduate lab courses, where my responsibilities included:
+As a **Teaching Assistant**, I have been involved in laboratory instruction and academic mentoring for undergraduate students.
 
-- Conducting and supervising lab experiments  
-- Preparing reagents and equipment setups  
-- Grading assignments and lab reports  
-- Tutoring and mentoring students in scientific methods  
+### Roles & Responsibilities
+- Conducting lab sessions and experiments  
+- Preparing reagents and setting up equipment  
+- Grading assignments and reports  
+- Tutoring and guiding students in scientific methods  
 
-I was nominated for the **Outstanding Teaching Assistant Award** for my commitment to supporting student learning.
+In recognition of my dedication, I was nominated for the **Outstanding Teaching Assistant Award**.
