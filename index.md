@@ -1,31 +1,27 @@
 ---
 layout: single
-title: "Welcome"
+title: "Home"
 author_profile: true
 ---
 
-# 👋 Welcome!
+I’m **Shafayet Nur**, a *Ph.D. student* and *Graduate Teaching Assistant* in the Department of Computer Science at **Northern Illinois University**, located in **DeKalb, Illinois, USA**.
 
-I’m **Shafayet Nur**, a **Ph.D. student** and **Graduate Teaching Assistant** in the Department of Computer Science at **Northern Illinois University**, based in **DeKalb, Illinois, USA**.
+My research focuses on applying **Large Language Models (LLMs)** to solve challenges in **public health**, especially through **multimodal learning**, where language and vision models work together to interpret complex real-world data.
 
-My research explores how **Large Language Models (LLMs)** can be leveraged for **public health applications** — with a focus on integrating multimodal data, combining **language and vision models**, and designing AI systems for **social good**.
-
-Before beginning my Ph.D., I served as a **Lecturer in Computer Science and Engineering** at *Port City International University, Bangladesh*.  
+Before beginning my Ph.D., I worked as a **Lecturer in Computer Science and Engineering** at *Port City International University, Bangladesh*.  
 My broader research interests include **multimodal NLP**, **machine learning**, and **responsible AI**.
 
 ---
 
-## 🔬 Research Focus
-
+#### 🎯 Research Focus
 - Large Language Models (LLMs) and generative AI  
 - Multimodal learning (language + vision)  
-- AI for social good and public health  
+- AI for public health and social good  
 - Responsible and ethical machine learning  
 
 ---
 
-## 💻 Technical Skills
-
+#### 💻 Technical Skills
 - Deep Learning · PyTorch · TensorFlow  
 - NLP · Transformers · Hugging Face  
 - Data Science · Python · R  
@@ -33,23 +29,11 @@ My broader research interests include **multimodal NLP**, **machine learning**, 
 
 ---
 
-## 🎓 Academic Background
-
+#### 🎓 Academic Background
 - **Ph.D. Student (Computer Science)** — Northern Illinois University, USA  
 - **Lecturer (Computer Science & Engineering)** — Port City International University, Bangladesh  
 
 ---
 
-## 🧠 About Me
-
-I am a Ph.D. student at Northern Illinois University, where my research focuses on large language models (LLMs) and their applications in public health. Before starting my Ph.D., I worked as a Lecturer in Computer Science and Engineering at Port City International University, Bangladesh.  
-
-My research interests include multimodal NLP, machine learning, and AI for social good. I am passionate about exploring how language and vision models can work together to understand complex real-world data and make technology more accessible and impactful.  
-
-Beyond research, I love mentoring students, collaborating on innovative ideas, and continuously learning how AI can better serve people and communities.
-
----
-
-## 🧭 Navigate
-
+#### 🧭 Navigate
 [About Me](about/) • [Research](research/) • [Publications](publications/) • [Teaching](teaching/) • [Contact](contact/)
