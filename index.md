@@ -1,24 +1,24 @@
 ---
-title: "Home"
-layout: default
+layout: single
+title: "Welcome"
+author_profile: true
 ---
 
 # 👋 Welcome!
 
-Hi, I’m **Shafayet Nur**, a bioinformatics researcher and teaching assistant.  
-I study microbial communities and nitrogen cycling through metagenomic analysis.
+Hi, I'm **Shafayet Nur**, a bioinformatics researcher and teaching assistant passionate about computational biology and metagenomics.
 
-I’m passionate about:
-- Computational biology and genome analysis  
-- Data-driven microbial ecology  
-- Teaching and mentoring in the biological sciences  
+I study microbial communities and nitrogen cycling through metagenomic analysis, using tools such as **Prokka**, **FeatureCounts**, and **MetaPhlAn** to explore the microbial gene landscape.
 
 ---
 
-## 📁 Navigate
+## 🔍 Research Focus
+- Metagenomic binning and annotation  
+- Nitrogen cycle gene mapping  
+- Computational microbial ecology  
+- Gene abundance quantification pipelines
 
-- [About Me](about/)
-- [Research](research/)
-- [Publications](publications/)
-- [Teaching](teaching/)
-- [Contact](contact/)
+---
+
+## 📂 Navigate
+[About Me](about/) • [Research](research/) • [Publications](publications/) • [Teaching](teaching/) • [Contact](contact/)
