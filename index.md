@@ -50,17 +50,6 @@ Beyond research, I love mentoring students, collaborating on innovative ideas, a
 
 ---
 
-## 🔗 Connect With Me
-
-| Platform | Link |
-|-----------|------|
-| 🧑‍💼 **LinkedIn** | [linkedin.com/in/shafayet-nur-156941201](https://www.linkedin.com/in/shafayet-nur-156941201/) |
-| 🧠 **Google Scholar** | [View Profile](https://scholar.google.com/citations?user=Wup-DigAAAAJ&hl=en&oi=ao) |
-| 🧬 **ResearchGate** | [Profile](https://www.researchgate.net/) |
-| 📧 **Email** | [shafayetnur.abir@gmail.com](mailto:shafayetnur.abir@gmail.com) |
-
----
-
 ## 🧭 Navigate
 
 [About Me](about/) • [Research](research/) • [Publications](publications/) • [Teaching](teaching/) • [Contact](contact/)
