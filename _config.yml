@@ -1,6 +1,8 @@
 title: "Shafayet Nur"
 description: "Researcher • Teaching Assistant • Bioinformatics Enthusiast"
-url: "https://shafayet-nur.github.io"
+url: "https://shafayetnur217.github.io"
+baseurl: "/shafayet-nur.github.io"
+
 theme: jekyll-theme-minimal
 
 author:
