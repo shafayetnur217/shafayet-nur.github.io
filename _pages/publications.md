@@ -1,18 +1,16 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-### 📝 Selected Works
+As a **Teaching Assistant**, I have been involved in laboratory instruction and academic mentoring for undergraduate students.
 
-- **2025** – *Title of your current paper or preprint.*  
-  _Journal / Conference._
+### Roles & Responsibilities
+- Conducting lab sessions and experiments  
+- Preparing reagents and setting up equipment  
+- Grading assignments and reports  
+- Tutoring and guiding students in scientific methods  
 
-- **2024** – *Paper or poster presentation.*  
-  _Conference / Symposium._
-
----
-
-You can view my full publication list on [Google Scholar](https://scholar.google.com/) or [ResearchGate](https://www.researchgate.net/).
+In recognition of my dedication, I was nominated for the **Outstanding Teaching Assistant Award**.
