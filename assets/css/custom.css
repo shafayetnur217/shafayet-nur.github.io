@@ -1,0 +1,26 @@
+/* ===== Custom Font Styling for Minimal Mistakes ===== */
+
+body {
+  font-size: 15px;         /* default is ~17px; smaller text */
+  line-height: 1.5;        /* slightly tighter spacing */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.2;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
+
+p {
+  margin-bottom: 0.8em;
+}
+
+.sidebar {
+  font-size: 14px;
+}
+
+.page__content {
+  max-width: 800px;        /* makes the reading width compact */
+  margin: 0 auto;
+}
