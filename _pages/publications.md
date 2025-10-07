@@ -1,16 +1,12 @@
 ---
 layout: single
-title: "Teaching"
-permalink: /teaching/
+title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
 
-As a **Teaching Assistant**, I have been involved in laboratory instruction and academic mentoring for undergraduate students.
+📧 **Email:** [your_email@example.com](mailto:your_email@example.com)  
+💻 **GitHub:** [github.com/shafayet-nur](https://github.com/shafayet-nur)  
+🔗 **LinkedIn:** [linkedin.com/in/shafayet-nur](https://linkedin.com/in/shafayet-nur)
 
-### Roles & Responsibilities
-- Conducting lab sessions and experiments  
-- Preparing reagents and setting up equipment  
-- Grading assignments and reports  
-- Tutoring and guiding students in scientific methods  
-
-In recognition of my dedication, I was nominated for the **Outstanding Teaching Assistant Award**.
+You can also reach me for collaboration or discussions on computational biology and metagenomic analysis.
