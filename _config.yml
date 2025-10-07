@@ -4,6 +4,8 @@ description: "PhD Student • GTA"
 url: "https://shafayet-nur.github.io"
 baseurl: ""
 repository: "shafayet-nur/shafayet-nur.github.io"
+minimal_mistakes_skin: default
+accent_color: "#4b0082"
 
 # Theme and plugins
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
