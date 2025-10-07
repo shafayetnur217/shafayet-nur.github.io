@@ -1,17 +1,18 @@
 ---
+layout: single
 title: "Research"
 permalink: /research/
+author_profile: true
 ---
 
-### 🔬 Ongoing Projects
+### 🔬 Current Projects
 
-- **Metagenomic binning and annotation** – Studying microbial diversity and metabolic potential using Illumina sequencing data.
-- **Nitrogen cycle gene mapping** – Identifying and quantifying genes involved in nitrification, denitrification, and ammonification pathways.
-- **Gene abundance quantification** – Building pipelines using tools such as *Prokka*, *FeatureCounts*, and *MetaPhlAn* to estimate gene expression.
+- **Metagenomic binning and annotation** — exploring microbial community composition using Illumina sequencing data.  
+- **Nitrogen cycle pathway mapping** — identifying genes related to nitrification, denitrification, and ammonification.  
+- **Gene abundance quantification** — building automated pipelines for cross-sample gene comparisons.
 
 ### 🧠 Research Interests
-
-- Computational metagenomics  
-- Microbial ecology  
-- High-performance computing in biology  
-- Pathway-level gene analysis
+- Computational biology and metagenomics  
+- Microbial ecology and evolution  
+- High-performance computing in genomics  
+- Pathway-level systems biology
